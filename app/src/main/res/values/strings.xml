@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionPrueba</string>
+    <string name="lblText">Este es un TexvtView</string>
+    <string name="btnText">Boton</string>
+</resources>
